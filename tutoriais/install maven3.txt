@@ -1,0 +1,22 @@
+Manual Installation via apt-get by adding maven 3 repository (Ubuntu 14.04 check out update 1):
+
+This can be useful if your ubuntu apt-get repositories list is not up to date.
+
+Maven 3 was required to set up the system and as it turns out most of the documents out there are referring to how to install Maven to Ubuntu version 12.04 or before. Best document I found was:
+
+killertilapia's blog
+
+The whole process I came up with is as follows:
+
+sudo -H gedit /etc/apt/sources.list
+Add the following line the sources.list file:
+
+deb http://ppa.launchpad.net/natecarlson/maven3/ubuntu precise main
+
+deb-src http://ppa.launchpad.net/natecarlson/maven3/ubuntu precise main
+sudo apt-get update && sudo apt-get install maven3
+
+sudo ln -s /usr/share/maven3/bin/mvn /usr/bin/mvn
+Caution 1: command "sudo apt-add-repository ppa:natecarlson/maven3" did not work on my Ubuntu and had to run "sudo apt-add-repository -rm ppa:natecarlson/maven3" to get my apt-get to work again.
+
+Caution 2: thanks to David, you need to remove your existing symbolic link to previous versions of maven before running step 4.

@@ -1,0 +1,73 @@
+ Software  Java Oracle (JDK 8) no Debian Wheezy
+Java Oracle (JDK 8) no Debian Wheezy
+
+Publicado por Otavio Henrique em 25/06/2014
+
+[ Hits: 21.562 ]
+1  0 
+ Denuncie    Favoritos    Indicar    Impressora
+JAVA ORACLE (JDK 8) NO DEBIAN WHEEZY
+
+
+ 
+Para começarmos, digite no terminal: 
+
+$ java -version 
+
+Se aparecer algo assim: 
+
+ java version "1.6.0_31"
+ OpenJDK Runtime Environment (IcedTea6 1.13.3) (6b31-1.13.3-1~deb7u1)
+ OpenJDK 64-Bit Server VM (build 23.25-b01, mixed mode) 
+
+Significa que seu sistema já possui Java, mas OpenJDK. 
+
+O OpenJDK é um projeto da Sun Microsystems para a criação de um Java Development Kit baseado totalmente em Software Livre e de código aberto que, por padrão, está incluso nas novas distribuições do Debian. 
+
+Porém, o OpenJDK não é compatível com vários sites de bancos e alguns programas de Development, forçando-nos (infelizmente) a instalar o Java Oracle (JDK). 
+
+Para a instalação do Java Oracle, devemos remover o OpenJDK. No terminal (root), digite: 
+
+# apt-get remove --purge openjdk-* 
+
+Digite s para confirmar a remoção do OpenJDK. 
+
+Aguarde a remoção ser concluída. 
+
+Agora, vamos instalar o Java Oracle (JDK 8). No terminal (root), copie e cole os comandos abaixo: 
+
+# echo "deb http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main" | tee /etc/apt/sources.list.d/webupd8team-java.list
+# echo "deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main" | tee -a /etc/apt/sources.list.d/webupd8team-java.list
+# apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EEA14886 
+
+Após adicionar os repositórios e a key, atualize a lista de pacotes: 
+
+# apt-get update 
+
+Instale o JDK 8, digite: 
+
+# apt-get install oracle-java8-installer 
+
+Clique em OK e em Aceitar. 
+
+Aguarde a instalação ser concluída. 
+
+Após o término da instalação, digite no terminal: 
+
+$ java -version 
+
+Irá aparecer algo assim: 
+
+ java version "1.8.0_05"
+ Java(TM) SE Runtime Environment (build 1.8.0_05-b13)
+ Java HotSpot(TM) 64-Bit Server VM (build 25.5-b02, mixed mode) 
+
+Confirme a instalação do compilador Java: 
+
+$ javac -version 
+
+A minha versão é a: 
+
+ javac 1.8.0_05 
+
+Pronto! Agora seu Java Oracle 8 já está instalado. 

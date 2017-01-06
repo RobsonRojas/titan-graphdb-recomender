@@ -1,0 +1,608 @@
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 1
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 137 ms; SampleSize: 1; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 2
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 9 ms; SampleSize: 2; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 3
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 12 ms; SampleSize: 3; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 4
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 15 ms; SampleSize: 4; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 5
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 20 ms; SampleSize: 5; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 6
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 22 ms; SampleSize: 6; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 7
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 17 ms; SampleSize: 7; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 8
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 18 ms; SampleSize: 8; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 9
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 163950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 163,950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 22 ms; SampleSize: 9; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 10
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 163950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 163,950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 352880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 352,880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 25 ms; SampleSize: 10; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 11
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 163950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 163,950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 352880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 352,880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 900427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 900,427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 28 ms; SampleSize: 11; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 12
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 163950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 163,950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 352880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 352,880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 900427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 900,427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 52869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 52,869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 27 ms; SampleSize: 12; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 13
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 163950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 163,950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 352880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 352,880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 900427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 900,427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 52869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 52,869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147364. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,364. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 32 ms; SampleSize: 13; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 14
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 163950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 163,950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 352880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 352,880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 900427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 900,427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 52869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 52,869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147364. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,364. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 997222. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 997,222. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 31 ms; SampleSize: 14; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 15
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 163950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 163,950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 352880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 352,880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 900427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 900,427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 52869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 52,869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147364. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,364. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 997222. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 997,222. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 113240. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 113,240. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 51 ms; SampleSize: 15; SampleFile: /opt/hpcData/HpcData20_Samples.csv
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 Sample file: /opt/hpcData/HpcData20_Samples.csv sample Size: 16
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,165. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 371262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 371,262. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 203466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 203,466. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 1013511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 1,013,511. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 771707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 771,707. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 946065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 946,065. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 432159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 432,159. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 915599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 915,599. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 163950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 163,950. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 352880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 352,880. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 900427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 900,427. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 52869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 52,869. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 147364. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 147,364. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 997222. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 997,222. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 113240. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 113,240. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES STRING: nodeid 283611. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFO: VALORES PARSEADO: nodeid 283,611. 
+Jan 21, 2015 8:14:50 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 47 ms; SampleSize: 16; SampleFile: /opt/hpcData/HpcData20_Samples.csv

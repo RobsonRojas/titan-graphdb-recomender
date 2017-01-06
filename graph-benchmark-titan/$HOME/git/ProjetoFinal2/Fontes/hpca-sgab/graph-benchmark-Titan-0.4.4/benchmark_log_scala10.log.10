@@ -1,0 +1,343 @@
+jan 20, 2015 12:08:29 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel2 executed in 2.906ms
+7 is max weight.
+8.191 edges with max weight.
+0 unique nodes.
+jan 20, 2015 12:08:32 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel3 executed in 2.562ms
+jan 20, 2015 12:08:33 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 1
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 231 ms; SampleSize: 1; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 2
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 181 ms; SampleSize: 2; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 3
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 187 ms; SampleSize: 3; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 4
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 192 ms; SampleSize: 4; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 5
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 249 ms; SampleSize: 5; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:34 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 6
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 208 ms; SampleSize: 6; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 7
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 144 ms; SampleSize: 7; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 8
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 175 ms; SampleSize: 8; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 9
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.804
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 152 ms; SampleSize: 9; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 10
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.804
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.152
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 174 ms; SampleSize: 10; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 11
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.804
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.152
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 86.132
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 145 ms; SampleSize: 11; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:35 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 12
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.804
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.152
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 86.132
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 84.184
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 185 ms; SampleSize: 12; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 13
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.804
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.152
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 86.132
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 84.184
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.604
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 145 ms; SampleSize: 13; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 14
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.804
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.152
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 86.132
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 84.184
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.604
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 84.044
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 178 ms; SampleSize: 14; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 15
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.804
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.152
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 86.132
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 84.184
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.604
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 84.044
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.168
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 150 ms; SampleSize: 15; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 Sample file: /opt/hpcData/HpcData10_Samples.csv sample Size: 16
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.232
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.312
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.716
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 87.116
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.288
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.204
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.692
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 82.820
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.804
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 80.152
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 86.132
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 84.184
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.604
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 84.044
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 83.168
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Kernel4 betweennessCentrality
+INFORMAÇÕES: erro:  null causa: null linha: 273. id do nó: 86.440
+jan 20, 2015 12:08:36 AM edu.upc.dama.Titan.benchmark.Main run
+INFORMAÇÕES: Kernel4 executed in 157 ms; SampleSize: 16; SampleFile: /opt/hpcData/HpcData10_Samples.csv

@@ -1,0 +1,10 @@
+jan 05, 2017 3:34:28 PM edu.ufam.engcomp.graph.benchmark.Main run
+INFO: graph init keys
+jan 05, 2017 3:34:28 PM edu.ufam.engcomp.graph.benchmark.Main run
+INFO: graph cleaning
+jan 05, 2017 3:36:30 PM edu.ufam.engcomp.graph.benchmark.Main run
+INFO: Kernel1 executed in 9.156ms. 8.192 edges and 8.192 nodes loaded.
+jan 05, 2017 3:36:32 PM edu.ufam.engcomp.graph.benchmark.Main run
+WARNING: kernel 3 não executado ou graph not conected
+jan 05, 2017 3:36:33 PM edu.ufam.engcomp.graph.benchmark.Main run
+WARNING: kernel 4 não executado ou graph not conected

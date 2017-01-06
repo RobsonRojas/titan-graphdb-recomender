@@ -1,0 +1,32 @@
+Jan 22, 2015 7:15:53 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 283 ms; SampleSize: 1; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:53 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 141 ms; SampleSize: 2; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:53 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 140 ms; SampleSize: 3; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:53 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 129 ms; SampleSize: 4; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:53 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 80 ms; SampleSize: 5; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 104 ms; SampleSize: 6; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 76 ms; SampleSize: 7; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 78 ms; SampleSize: 8; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 72 ms; SampleSize: 9; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 58 ms; SampleSize: 10; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 76 ms; SampleSize: 11; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 71 ms; SampleSize: 12; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 76 ms; SampleSize: 13; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 78 ms; SampleSize: 14; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 77 ms; SampleSize: 15; SampleFile: /opt/hpcData/HpcData10_Samples.csv
+Jan 22, 2015 7:15:54 PM edu.upc.dama.Titan.benchmark.Main run
+INFO: Kernel4 executed in 85 ms; SampleSize: 16; SampleFile: /opt/hpcData/HpcData10_Samples.csv
