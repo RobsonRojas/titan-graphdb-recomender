@@ -34,6 +34,6 @@ public interface IBechmarkGraph {
          public Vertex getSingleNode(String ID_NODE, long nextInt) ;
          public void clean() ;
         public boolean checkKeys();
-        public void InitKeys();
+        public void InitIndex();
         
 }

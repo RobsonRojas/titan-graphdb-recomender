@@ -126,7 +126,7 @@ public class Main {
             // kerne1
             if (execK1 && graphdb.conectarLocal(titanConfigFilePath)) {
                 log.log(Level.INFO,"graph init keys");
-                graphdb.InitKeys();
+                graphdb.InitIndex();
 
                 log.log(Level.INFO,"graph cleaning");
                 graphdb.clean();
